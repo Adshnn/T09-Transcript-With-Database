@@ -83,35 +83,3 @@ student-transcript#12S20003
 12S2102|12S20003|2022/2023|odd|B(AB)
 
 ```
-
-**Note**:
-
-Pada solusi anda, aplikasikan salah satu bentuk dari konsep Nested Constructs (Inner Class, Static Nested Class, Local Class, atau Anonymous Class).
-
-## Reporting
-Lakukan pertemuan dengan pair anda untuk mendiskusikan persoalan dan pengembangan solusi. Rekaman dari pertemuan tersebut menjadi bagian dari artefak tugas yang harus dikumpulkan. Durasi rekaman minimal **30 menit**.
-
-Presentasikan pekerjaan anda dalam sebuah video. Pada presentasi:
-1. Jabarkan solusi anda kelas-per-kelas.
-2. Berikan rationale dari setiap implementasi yang anda hasilkan serta berikan argumen mengapa pilihan implementasi anda merupakan pilihan terbaik.
-3. Jabarkan alir eksekusi dari solusi anda.
-4. Demonstrasikan pekerjaan anda.
-5. Tunjukkan hasil yang anda peroleh dari GitHub Classroom.
-6. Sebutkan kendala yang dihadapi dalam pengerjaan tugas kali ini.
-**7. Sebutkan alur pengerjaan anda dengan menerapkan database.
-8. Tunjukkan schema atau database anda sesuai dengan class diagram dan sequence diagram.**
-
-Note: Semakin tajam argumen dan penjabaran anda semakin mudah penilaian dilakukan.
-
-Kriteria Video Presentasi:
-+ Fullscreen (taskbar terlihat).
-+ Suara jernih dan dapat dengan jelas terdengar.
-+ Posting video anda di YouTube, di-set "Not For Kids" dengan visibility Unlisted.
-
-## Submission
-1. ```src/academic/model/*.java```;
-2. ```src/academic/driver/*.java```;
-3. changelog.txt
-
-## How to submit?
-Please see https://youtu.be/ZOhgmVjWFyo
